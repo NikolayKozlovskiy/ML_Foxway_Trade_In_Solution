@@ -20,3 +20,4 @@ But if it's neither iPhone nor Samsung, the screen has visible damage on lcd scr
 
 After renaming the file, download it and commit the image to `data` folder in this repository.
     
+Ration excel file - https://docs.google.com/spreadsheets/d/1iF9JLFY9ve21WCrhPkEhbsDxwj9lB-c7bGtVF0zD3BU/edit#gid=0 
